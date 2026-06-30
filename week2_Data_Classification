@@ -1,0 +1,16 @@
+### Data Classification Model
+
+In this project, I stepped into the world of Machine Learning. The goal was to build a classification model that can automatically categorize data.
+Using the Scikit-learn and Pandas libraries, I trained a model to identify patterns in a dataset and make accurate predictions.
+
+## Key Skills:
+
+-Data preprocessing with Pandas.
+-Splitting datasets into training and testing sets.
+-Training machine learning models and evaluating their accuracy.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- NumPy
