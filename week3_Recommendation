@@ -1,0 +1,19 @@
+### Movie Recommendation System
+
+Have you ever wondered how streaming platforms suggest movies you might like? This project implements a basic content-based 
+recommendation system. It uses Natural Language Processing (NLP) techniques to analyze movie descriptions and recommend similar
+titles based on user preferences.
+
+## Key Skills:
+
+-Using TF-IDF Vectorizer to convert text data into vectors.
+-Calculating Cosine Similarity to find relationships between data points.
+-Building a recommendation engine from scratch.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF Vectorizer
+- Cosine Similarity
