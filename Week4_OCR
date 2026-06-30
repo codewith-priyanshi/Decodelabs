@@ -1,0 +1,17 @@
+### OCR: Image to Text Converter
+This project demonstrates how to bridge the gap between physical images and digital text. 
+Using OpenCV for image processing and Pytesseract for Optical Character Recognition (OCR), 
+I built a tool that reads text from an image and exports it into a clean, editable text file.
+
+## Key Skills:
+
+-Image preprocessing (converting to grayscale).
+-Integrating the Tesseract engine for text extraction.
+-Saving processed data to external files.
+
+## Technologies Used
+
+- Python
+- OpenCV
+- Pytesseract
+- Matplotlib
